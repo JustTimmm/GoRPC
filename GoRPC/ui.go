@@ -1,4 +1,4 @@
-package main
+package GoRPC
 
 import (
 	"fyne.io/fyne/v2"
